@@ -45,3 +45,13 @@ python jevy/intent_server.py --model-dir model --port 8767
 ## License
 
 MIT
+
+---
+
+## 关注
+
+| 公众号 | 小红书 · 酒里加盐 |
+| :---: | :---: |
+| ![公众号二维码](qrcode.jpg) | ![小红书二维码](xhs-qr.jpg) |
+
+小红书号 `6100441379` · 酒馆会往酒里加盐，让顾客越喝越渴
